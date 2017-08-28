@@ -85,8 +85,6 @@ CC防火墙的架构采用Flume+Kafka+Strom+Zookeeper+Mysql实现,实现异常IP
 
 ## 前端 ##
 
-[http://ccfirewall.gyyx.cn](http://ccfirewall.gyyx.cn "CC防火墙管理端")
-
 左上方可以设置防火前的配置，保存后实时生效，中上方可以查看当前已经上线的客户端，点击详情可以看到此客户端已经封停的IP格式，右上方可以看到曲线，地图，已经两个计数器信息
 
 
